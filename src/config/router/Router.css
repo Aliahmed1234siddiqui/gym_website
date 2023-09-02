@@ -1,0 +1,9 @@
+.main{
+   position: sticky;
+   top:0%;
+    background-color: black;
+    padding: 20px 0;
+}
+.navbar-toggler-icon{
+    color: white;
+}
